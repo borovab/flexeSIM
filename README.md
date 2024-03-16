@@ -15,7 +15,7 @@ Technologies Used
 FlexeSIM is built using modern web technologies to deliver a seamless and responsive user experience:
 
 HTML,CSS,JavaScript: Frontend framework for building dynamic user interfaces.
-PHP: Backend runtime environment for handling server-side logic and API interactions.
+PHP: Backend runtime environment for handling server-side.
 MySQL: NoSQL database used for storing product information, user data, and transaction details.
 Stripe: Payment processing platform for secure and reliable online transactions.
 
