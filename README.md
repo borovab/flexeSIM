@@ -19,13 +19,3 @@ PHP: Backend runtime environment for handling server-side logic and API interact
 MySQL: NoSQL database used for storing product information, user data, and transaction details.
 Stripe: Payment processing platform for secure and reliable online transactions.
 
-
-
-Getting Started
-To run FlexeSIM locally and explore its features, follow these steps:
-
-Clone this repository to your local machine.
-Navigate to the project directory.
-Install dependencies by running npm install.
-Start the development server with npm start.
-Open your web browser and visit http://localhost:3000 to access the FlexeSIM platform.
